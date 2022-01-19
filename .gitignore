@@ -1,2 +1,6 @@
-*.svg
+# build files
+*.o
 desmosvg
+
+# test images
+*.svg
